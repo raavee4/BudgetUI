@@ -5,8 +5,18 @@
   --color-brand-green-dark: #2e7d32;
   --color-brand-pink: #f06292;
   --color-brand-pink-dark: #d81b60;
+  --color-brand-white: #fff;
 }
 
 body {
-  @apply bg-brand-green font-sans text-black;
+  @apply bg-brand-white font-sans text-black;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f3f9f4;
 }
