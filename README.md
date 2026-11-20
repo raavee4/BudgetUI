@@ -1,7 +1,7 @@
 Making the UI for my Budget App in React. Learning React, Redux Toolkit, Tailwind and other popular libraries. Need to use D3 in there for sankey chart. Will update readme as I continue
 
 ## Description
-BudgetApp UI is a React and TypeScript-based frontend designed to help users manage budgets, track spending, monitor savings goals, and visualize financial data. The application provides secure authentication with MFA, statement upload and review workflows, transaction management, budget planning tools, and interactive D3.js visualizations including pie charts, Sankey diagrams, historical trends, and investment performance dashboards. Built using a feature-based architecture, the frontend emphasizes maintainability, scalability, and an intuitive user experience.
+BudgetUI is a React and TypeScript-based frontend designed to help users manage budgets, track spending, monitor savings goals, and visualize financial data. The application provides secure authentication with MFA, statement upload and review workflows, transaction management, budget planning tools, and interactive D3.js visualizations including pie charts, Sankey diagrams, historical trends, and investment performance dashboards. Built using a feature-based architecture, the frontend emphasizes maintainability, scalability, and an intuitive user experience.
 
 ## Tech Stack
 React
